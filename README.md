@@ -112,8 +112,6 @@ Monday, 24 April 2023, at 3:30 PM.
 
 **Tip**: To ensure the files required by your project are not being ignored, you’re strongly advised to clone your repo into a different folder on your computer, or to a different computer altogether.
 
-**Note**: If you score a perfect 100 on this project, 25 points of extra credit will be added to your final grade.
-
 ---
 
 ## ❖・Submission・❖
